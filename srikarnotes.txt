@@ -1,0 +1,6 @@
+use tiles="Stamen Terrain" instead of "Mapbox Bright"
+
+--------------------------
+Hi this is srikar. If you like my code please email me.
+
+bsriker@gmail.com
